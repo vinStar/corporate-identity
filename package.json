@@ -1,0 +1,20 @@
+{
+  "name": "@beisen/corporate-identity-system",
+  "version": "0.0.1",
+  "description": "",
+  "main": "docker-compose.yml",
+  "scripts": {
+  },
+  "keywords": [
+    "ci",
+    "jenkins",
+    "gitlab",
+    "docker",
+    "docker-compose",
+    "nodejs",
+    "sh",
+    "dockerfile"
+  ],
+  "author": "zhangyue@icloud.com",
+  "license": "ISC"
+}

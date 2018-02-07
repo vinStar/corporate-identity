@@ -1,0 +1,4 @@
+
+/services/gitlab/conf/*
+/services/jenkins/conf/*
+/node_modules
